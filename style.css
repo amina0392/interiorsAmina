@@ -66,6 +66,14 @@ h2 {
 .taille{
     width: 50%;
 }
+#maModale h5{
+    font-family: 'Segoe UI';
+}
+.bodyJson h4{
+    font-family: 'Segoe UI';
+   
+}
+
 
 @media (min-width: 768px) {
     .taille {
